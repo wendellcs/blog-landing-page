@@ -16,7 +16,7 @@ This is a solution to the [Newsletter sign-up form with success message challeng
 
 ### Screenshot
 
-![blog-landing-page](https://github.com/wendellcs/wendellcs.github.io/assets/88943437/dc2463b5-4384-48bc-93a1-9fe3813f7236)
+![blog-landing-page](https://github.com/wendellcs/blog-landing-page/assets/88943437/ae6b895e-9c4d-4126-9c37-f5bdd9818cec)
 
 
 ### Links
