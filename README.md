@@ -37,7 +37,7 @@ This is a solution to the [Blogr landing page challenge on Frontend Mentor](http
 
 ### What I learned
 
-This time, I tried to build a project using CSS Grid. Normally, I only use Flexbox, so it was cool to make it in a different way, which I found to be  much easier than just using Flexbox or float.
+This time, I tried to build a project using CSS Grid. Normally, I only use Flexbox and it was cool to make it in a different way, which I found to be much easier than just using Flexbox or float.
 
 
 ## Author
